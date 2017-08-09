@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * @return span count determined on the basis of the screen orientation, changes between 2 for
-     *         portrait and 3 for landscape
+     *
      */
     private int getSpanCountForOrientation() {
         int spanCount = 2;
